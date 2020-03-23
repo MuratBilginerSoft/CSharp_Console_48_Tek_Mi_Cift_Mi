@@ -1,0 +1,9 @@
+C:\Users\mrt_b\source\repos\Project 27 Tek mi Çift mi\Project 27 Tek mi Çift mi\bin\Debug\Project 27 Tek mi Çift mi.exe.config
+C:\Users\mrt_b\source\repos\Project 27 Tek mi Çift mi\Project 27 Tek mi Çift mi\bin\Debug\Project 27 Tek mi Çift mi.exe
+C:\Users\mrt_b\source\repos\Project 27 Tek mi Çift mi\Project 27 Tek mi Çift mi\bin\Debug\Project 27 Tek mi Çift mi.pdb
+C:\Users\mrt_b\source\repos\Project 27 Tek mi Çift mi\Project 27 Tek mi Çift mi\obj\Debug\Project_27_Tek_mi_Çift_mi.Form1.resources
+C:\Users\mrt_b\source\repos\Project 27 Tek mi Çift mi\Project 27 Tek mi Çift mi\obj\Debug\Project_27_Tek_mi_Çift_mi.Properties.Resources.resources
+C:\Users\mrt_b\source\repos\Project 27 Tek mi Çift mi\Project 27 Tek mi Çift mi\obj\Debug\Project 27 Tek mi Çift mi.csproj.GenerateResource.cache
+C:\Users\mrt_b\source\repos\Project 27 Tek mi Çift mi\Project 27 Tek mi Çift mi\obj\Debug\Project 27 Tek mi Çift mi.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 27 Tek mi Çift mi\Project 27 Tek mi Çift mi\obj\Debug\Project 27 Tek mi Çift mi.exe
+C:\Users\mrt_b\source\repos\Project 27 Tek mi Çift mi\Project 27 Tek mi Çift mi\obj\Debug\Project 27 Tek mi Çift mi.pdb
